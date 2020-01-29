@@ -1,2 +1,2 @@
-# adhoc-portfolio
-My portfolio specifically for Chicago Digital since I haven't updated my page in a long while :) and also for fun!!!
+# Portfolio
+A portfolio template used to showcase technologies, writing text animation, and a form button linked to my work email for inquiries.
